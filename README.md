@@ -1,4 +1,4 @@
-# Deep-Learning-Based-MRI-Image-Enhancement-
+# Deep-Learning-Based-MRI-Image-Enhancement
 
 MRI Image Enhancement using Deep Learning
 
