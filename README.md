@@ -14,10 +14,10 @@ Quantitative evaluation using PSNR and SSIM metrics.
 
 Comparison with existing super-resolution and fat-suppression MRI methods (Inaoka et al., 2024).
 
-| Model          | PSNR (dB) | SSIM        |
-| -------------- | --------- | ----------- |
-| Vanilla U-Net  | 32–33     | 0.973–0.975 |
-| Modified U-Net | 33–33.6   | 0.978–0.979 |
+| Model          | PSNR (dB) | SSIM          |
+| -------------- | --------- | -----------   |
+| Vanilla U-Net  | 32–33     | 0.9102–0.9699 |
+| Modified U-Net | 33–33.6   | 0.9788–0.9799 |
 
 
 Tools & Libraries
